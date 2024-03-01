@@ -1,4 +1,4 @@
-### Olá, bem vindo aos meus repositórios 😊
+### Bem-vindo aos meus projetos e códigos. Sinta-se à vontade para explorar e contribuir! 😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusbic/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-maia-a14908258/)
