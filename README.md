@@ -2,9 +2,9 @@
 
 Desenvolvedor Full Stack em São Paulo. Crio sistemas web, SaaS e sites para empresas.
 
-- 🚀 Criador do [Karreify](https://karreify.com), SaaS de currículos com IA em produção
-- 🛠️ Desenvolvedor Full Stack na Agência E-nova
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FIAP
+- Criador do [Karreify](https://karreify.com), SaaS de currículos com IA em produção
+- Desenvolvedor Full Stack na Agência E-nova
+- Formado em Análise e Desenvolvimento de Sistemas pela FIAP
 
 ## Stack
 React · Next.js · TypeScript · Node.js · PostgreSQL · PHP · WordPress · AWS · Docker
